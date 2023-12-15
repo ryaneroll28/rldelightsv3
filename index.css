@@ -1,5 +1,5 @@
 .homePage {
-  height: 100vh;
+  min-height: 100vh;
   background-image: url('./img/bg2.jpg');
   background-size: cover;
   background-repeat: no-repeat;
@@ -55,6 +55,19 @@ nav {
 .rlLogo {
   box-shadow: 0 0 5px cyan, 0 0 50px cyan;
 }
+/* AboutPage CSS */
+
+.aboutPage {
+  height: 100vh;
+  font-family: 'Pacifico', cursive;
+}
+
+.aboutPar {
+  font-family: 'Inter Tight', sans-serif;
+  font-weight: 50;
+}
+
+/* About Page */
 
 /* 
 font-family: 'Inter Tight', sans-serif;
